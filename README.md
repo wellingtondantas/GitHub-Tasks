@@ -50,4 +50,9 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
 
+## Outros comandos
 
+1. Verifica o diretorio remoto
+```
+git romote -V
+```
